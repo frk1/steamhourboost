@@ -1,0 +1,28 @@
+{
+  "name": "steamhourboost",
+  "version": "1.0.0",
+  "description": "Boost steam game time",
+  "main": "boost.coffee",
+  "dependencies": {
+    "bluebird": "^2.9.13",
+    "chalk": "^1.0.0",
+    "inquirer": "^0.8.0",
+    "jsonfile": "^2.0.0",
+    "lodash": "^3.5.0",
+    "steam": "^0.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:frk1/steamhourboost.git"
+  },
+  "keywords": [
+    "boost",
+    "steam"
+  ],
+  "author": "frk",
+  "license": "MIT"
+}
