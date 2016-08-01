@@ -13,7 +13,7 @@ POSSIBLE_GAMES = [
 account = null
 
 class SteamAccount
-  accountName: null
+  accountName: matty51141
   password: null
   authCode: null
   shaSentryfile: null
